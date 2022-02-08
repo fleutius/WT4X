@@ -1,0 +1,16 @@
+figure {
+display: block;
+margin: auto;
+width: 50%;
+}
+
+p {
+    width: 600px;
+    background: yellow;
+}
+.container {
+    float: left;
+    vertical-align: text-top;
+    margin-top: 20px;
+    margin-right: 10px;
+}
